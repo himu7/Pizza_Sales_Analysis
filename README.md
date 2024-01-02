@@ -1,8 +1,8 @@
 # Pizza Sales Analysis
 
-#𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 :
+## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 :
 This project is about Pizza sales analysis . The project started with importing data into Power BI and then performing a data cleaning/transformation process. With proper data modeling and DAX measures, an interactive report was created. Furthermore, enhancement on the report was done for a better UI experience. Then, the report was published into the workspace while ensuring access and the Row Level Security. Moreover, scheduled refreshing on the dataset was installed and a dashboard was designed.
-##𝐓𝐡𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 𝐬𝐭𝐞𝐩𝐬 𝐢𝐧 𝐬𝐡𝐨𝐫𝐭:
+## 𝐓𝐡𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 𝐬𝐭𝐞𝐩𝐬 𝐢𝐧 𝐬𝐡𝐨𝐫𝐭:
 1. Data import, cleaning/transformation
 2. Data Modeling
 3. DAX measures for Necessary Metrics
@@ -13,7 +13,7 @@ This project is about Pizza sales analysis . The project started with importing 
 8. Creating App(report, Dashboard)
 9. Finally sharing the report
 
-#𝐌𝐲 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐊𝐞𝐲 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬: 
+# 𝐌𝐲 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐊𝐞𝐲 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬: 
 
 1.The pizza company has, on average, 60 orders per day.
 
